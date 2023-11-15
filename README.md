@@ -1,4 +1,4 @@
-# Facial-Image-Recognition-Algorithms
+# Various Facial-Image-Recognition Algorithms Comparison
 
 ### References
 I. Face detection using Haar Cascades : https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html
